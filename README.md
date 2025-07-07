@@ -1,4 +1,4 @@
-# CMSINet-KD
+# FAKNet
 ## statement
 I will make all the details public once the paper is accepted
 ## Architecture and Details
